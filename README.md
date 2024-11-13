@@ -12,7 +12,7 @@ O site está hospedado na Cloud e pode ser acessado no seguinte link:
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Biblioteca de Carrossel:** Swiper.js para exibir as avaliações e dicas
-- **Hospedagem na Cloud:** Google Cloud App Engine
+- **Hospedagem na Cloud:** Azure - App Web 
 
 ## Funcionalidades Principais
 
